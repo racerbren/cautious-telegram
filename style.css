@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+    margin: 0;
+ }
+
+.welcome {
+    border-style: solid;
+    border-color:cornflowerblue;
+    background-color: cornflowerblue;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    text-align: center;
+ }
+
+.display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ .display input[type=text] {
+    padding: 10px;
+    border: double;
+    font-size: 17px;
+ }
