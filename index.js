@@ -19,6 +19,3 @@ window.addEventListener("click", () =>{
             icon = data.weather.icon;
         });
 });
-
-
-

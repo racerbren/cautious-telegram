@@ -1,6 +1,7 @@
 body {
     background-color: white;
     margin: 0;
+    background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-abstract-white-diamond-shape-background-picture-image_1401078.jpg);
  }
 
 .welcome {
@@ -23,7 +24,23 @@ body {
     border: double;
     font-size: 17px;
  }
+
+ .report {
+    background-color: cornflowerblue;
+    width: 375px;
+    height: 500px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -187.5px;
+    margin-top: -175.25px;
+ }
+
  img {
-        width: 30px;
-        height: 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.City button[type=submit] {
+    
 }
